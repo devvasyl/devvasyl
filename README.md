@@ -1,14 +1,14 @@
-<h1 align="center">Senior Full Stack Engineer</h1>
+![image](https://github.com/user-attachments/assets/08c7900c-45c2-4610-9592-c0588db79686)![image](https://github.com/user-attachments/assets/0ccd7e11-24cd-4228-8726-24af432b5581)<h1 align="center">Senior Full Stack Engineer</h1>
 <h3 align="center">Experienced web/mobile full-stack developer with a proven track record of delivering high-quality, scalable applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukpoex&label=Profile%20views&color=0e75b6&style=flat" alt="lukpoex" /> </p>
 
-- 💬 Ask me about **SPA frameworks (React, Vue.js, Angular, Next.js, Nuxt.js, etc) and Express.js / Django**
-- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications
+- 💬 Ask me about **SPA frameworks (React, Vue.js, Angular, Next.js, Nuxt.js, React Native, etc)**
+- 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
-- 📫 How to reach me **darkhorse941019@gmail.com**
+- 📫 How to reach me **yablinchukvasyl@ukr.net**
 
 ## 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
@@ -278,7 +278,7 @@
 
 ## Contacts
 <div align="center"> 
-  <a href="mailto:darkhorse941019@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+  <a href="mailto:yablinchukvasyl@ukr.net" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;
    <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
   &nbsp;
